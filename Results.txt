@@ -1,0 +1,3 @@
+Draw sorted:  0  4  5  12  12  13  14 
+User’s sorted:  2  3  6  8  11  12  15 
+Matching numbers:  12  12 
